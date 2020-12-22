@@ -12,7 +12,7 @@ public class Main {
         //MySQL配置时的用户名
         String user = "root";
         //MySQL配置时的密码
-        String password = "n3483226";
+        String password = "123456";
         Connection conn = null;
         try {
             Class.forName(driver);
